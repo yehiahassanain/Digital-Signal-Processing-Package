@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DSPComponents",
+    "\\DSPComponentsUnitTest",
+    "\\DSPComponents\\Algorithms"
+  ],
+  "SelectedNode": "\\DSPComponents\\Algorithms\\FastCorrelation.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,24 @@
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\win10\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\User\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+F:\DSP_PAC\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\DSP_PAC\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\DSP_PAC\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+F:\DSP_PAC\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\DSP_PAC\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\DSP_PAC\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
